@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello! I am Salem Al-Hadrusi, studying computer science engineering at Wayne State University with an intent on going into cybersecurity and AI. 
+
+I am very interested in software development and currently learning multiple languages (Java, C++, python). 
+
+## Info
+- Learning C++ and Python
+- He/Him
