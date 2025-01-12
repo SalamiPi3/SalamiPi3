@@ -15,10 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am Salem Al-Hadrusi, studying computer science engineering at Wayne State University with an intent on going into cybersecurity and AI. 
+Hello! I am Salem Al-Hadrusi, studying electrical computer engineering at Wayne State University with a minor in computer science. 
 
-I am very interested in software development and currently learning multiple languages (Java, C++, python). 
-
-## Info
-- Learning C++ and Python
-- He/Him
+I am very interested in robotics and general software development. 
