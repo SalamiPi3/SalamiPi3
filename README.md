@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hello! I am Salem Al-Hadrusi, studying electrical computer engineering at Wayne State University with a minor in computer science. 
+Hello! I am a student studying electrical computer engineering at Wayne State University with a minor in computer science. 
 
 I am very interested in robotics and general software development. 
