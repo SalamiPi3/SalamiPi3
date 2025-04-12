@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 Hello! I am a student studying electrical computer engineering at Wayne State University with a minor in computer science. 
 
-I am very interested in robotics and general software development. 
+I am currently interested in hardware development as well as abstract mathematics and computer architecture.
